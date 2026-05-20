@@ -1,4 +1,8 @@
 Flask
 requests
 transformers
+datasets
+torch
+scikit-learn
+numpy
 tensorboard
