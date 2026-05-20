@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# NewsTracker-Laufzeitartefakte
+data/newstracker.sqlite3
+data/preferences.json
+models/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
